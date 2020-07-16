@@ -2,7 +2,7 @@
 
 ---
 
-iconly is a free and open source icon pack and no is available for figma as a plugin!
+Iconly is a free and open source icon pack and now is available for figma as a plugin!
 
 
 
