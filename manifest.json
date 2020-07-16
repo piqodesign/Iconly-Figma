@@ -1,0 +1,7 @@
+{
+  "name": "Iconly",
+  "id": "861001888228800074",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
